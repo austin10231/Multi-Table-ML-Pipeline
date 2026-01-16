@@ -42,12 +42,16 @@ Evaluation metrics include:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
+
+```text
 Brazilian_E-Commerce/
 ├── datasets/        # Raw and processed datasets
 ├── images/          # Saved figures (ROC, Confusion Matrix, etc.)
 ├── Brazilian_E-Commerce.ipynb
 └── README.md
+└── requirements.txt
+```
 
 ---
 
