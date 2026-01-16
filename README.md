@@ -2,8 +2,7 @@
 
 ## Author
 
-**Mutian He**  
-2026
+**Mutian He**  · 2026
 
 
 ## Overview
