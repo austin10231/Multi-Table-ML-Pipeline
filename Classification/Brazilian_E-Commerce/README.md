@@ -1,6 +1,6 @@
 # Brazilian E-Commerce Delivery Delay Prediction (Classification)
 
-Arthur: Mutian He
+Author: Mutian He · 2026
 
 This project is part of the **Multi-Table-ML-Pipeline** and focuses on a **classification task** using a real-world Brazilian e-commerce dataset.  
 The goal is to predict whether an order will be **delayed** based on information from multiple related tables.
